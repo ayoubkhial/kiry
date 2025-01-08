@@ -65,6 +65,9 @@
     }
   },
   "release": {
+    "version": {
+      "conventionalCommits": true
+    },
     "projects": ["packages/*"],
     "changelog": {
       "workspaceChangelog": {
