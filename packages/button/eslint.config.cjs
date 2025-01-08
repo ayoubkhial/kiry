@@ -13,7 +13,6 @@ module.exports = [
         }
       ]
     },
-
     languageOptions: {
       parser: require('jsonc-eslint-parser')
     }
