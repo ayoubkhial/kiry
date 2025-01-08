@@ -1,1 +1,1 @@
-nx lint docs --fix
+nx lint docs --skip-nx-cache && nx lint docs --fix --skip-nx-cache
