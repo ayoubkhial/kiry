@@ -1,3 +1,14 @@
+## 0.3.0 (2025-01-08)
+
+### 🚀 Features
+
+- bbb ([6837a65](https://github.com/ayoubkhial/kiry/commit/6837a65))
+- ffff ([5d12804](https://github.com/ayoubkhial/kiry/commit/5d12804))
+
+### ❤️ Thank You
+
+- Ayoub KHIAL
+
 ## 0.2.0 (2025-01-08)
 
 ### 🚀 Features
