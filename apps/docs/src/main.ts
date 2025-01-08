@@ -6,6 +6,6 @@ import { AppComponent } from './app/app.component';
 /** Ghjj jkkke */
 bootstrapApplication(AppComponent, appConfig).catch((err) => console.error(err));
 
-if (AppComponent) {
+if (AppComponent) 
   console.log('yeeee');
-} else console.log('dddd');
+ else console.log('dddd');
