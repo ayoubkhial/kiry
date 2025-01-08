@@ -1,6 +1,6 @@
 {
   "name": "@ng-kiry/core",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "dependencies": {
     "@ng-kiry/button": "2.4.0",
     "@ng-kiry/tooltip": "2.2.0"
