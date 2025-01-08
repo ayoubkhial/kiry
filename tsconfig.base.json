@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@kiry/button": ["packages/button/src/index.ts"],
-      "@kiry/tooltip": ["packages/tooltip/src/index.ts"],
+      "@ng-kiry/button": ["packages/button/src/index.ts"],
+      "@ng-kiry/tooltip": ["packages/tooltip/src/index.ts"],
       "@ng-kiry/core": ["packages/core/src/index.ts"]
     }
   },

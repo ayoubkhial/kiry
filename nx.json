@@ -68,6 +68,14 @@
     "version": {
       "conventionalCommits": true
     },
+    "groups": {
+      "my-group": {
+        "projects": ["button", "core"],
+        "version": {
+          "groupPreVersionCommand": "npx nx run-many -t build -p button,core"
+        }
+      }
+    },
     "projectsRelationship": "independent",
     "projects": ["packages/*"],
     "changelog": {
