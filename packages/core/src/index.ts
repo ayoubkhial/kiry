@@ -1,2 +1,2 @@
-export * from '@ng-kiry/button';
-export * from '@ng-kiry/tooltip';
+export * from '@ng-kiry2/button';
+export * from '@ng-kiry2/tooltip';

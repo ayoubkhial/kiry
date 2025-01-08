@@ -77,7 +77,7 @@
       }
     },
     "projectsRelationship": "independent",
-    "projects": ["packages/*"],
+
     "changelog": {
       "projectChangelogs": true,
       "workspaceChangelog": {
