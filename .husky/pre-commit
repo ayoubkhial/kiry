@@ -1,0 +1,1 @@
+nx format:check && nx format:fix & nx run-many --target=lint --projects=apps/* --outputStyle static
