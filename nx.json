@@ -68,6 +68,7 @@
     "version": {
       "conventionalCommits": true
     },
+    "projectsRelationship": "independent",
     "projects": ["packages/*"],
     "changelog": {
       "workspaceChangelog": {
